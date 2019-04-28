@@ -9,6 +9,8 @@ public class workPracticegit {
 		System.out.println("   ");
 		
 		System.out.println("sdbf akjbkf kfgbkjbfg sdgub");
+		
+		System.out.println("Jedjbkfsd kfjbsf ksbjfkbsfks kf kfbksbdfkjbsf sf kf jkabs kfab");
 	}
 
 }
